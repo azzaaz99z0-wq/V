@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StreamVault</string>
+    <string name="app_tagline">أداة استخراج الوسائط وتنزيل الصيغ</string>
+    <string name="url_input_hint">الصق رابط الفيديو هنا (YouTube, TikTok, Twitter...)</string>
+    <string name="fetch_info_button">تنزيل</string>
+    <string name="download_button">تنزيل</string>
+    <string name="extracting_metadata">جارٍ فحص الصيغ والجودات المتاحة…</string>
+    <string name="downloading">جارٍ تنزيل الفيديو…</string>
+    <string name="quality_options">الصيغ والجودات المتاحة</string>
+    <string name="error_invalid_url">يرجى إدخال رابط صالح يبدأ بـ http:// أو https://</string>
+</resources>

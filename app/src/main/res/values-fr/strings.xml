@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StreamVault</string>
+    <string name="app_tagline">Extracteur et téléchargeur multimédia</string>
+    <string name="url_input_hint">Coller l\'URL de la vidéo (YouTube, TikTok, Twitter...)</string>
+    <string name="fetch_info_button">Télécharger</string>
+    <string name="download_button">Télécharger</string>
+    <string name="extracting_metadata">Analyse des formats disponibles…</string>
+    <string name="downloading">Téléchargement en cours…</string>
+    <string name="quality_options">Formats disponibles</string>
+    <string name="error_invalid_url">Veuillez saisir une URL valide.</string>
+</resources>

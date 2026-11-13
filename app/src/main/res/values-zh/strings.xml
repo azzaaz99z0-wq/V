@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StreamVault</string>
+    <string name="app_tagline">媒体提取与格式下载器</string>
+    <string name="url_input_hint">粘贴视频链接 (YouTube, TikTok, Twitter...)</string>
+    <string name="fetch_info_button">下载</string>
+    <string name="download_button">下载</string>
+    <string name="extracting_metadata">正在解析视频画质与格式…</string>
+    <string name="downloading">正在下载视频…</string>
+    <string name="quality_options">可用画质格式</string>
+    <string name="error_invalid_url">请输入有效的视频链接。</string>
+</resources>

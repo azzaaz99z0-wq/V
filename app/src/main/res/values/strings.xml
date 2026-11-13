@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StreamVault</string>
+    <string name="app_tagline">Media saver &amp; format downloader</string>
+    <string name="url_input_hint">Paste public video URL (YouTube, Vimeo, Twitter, etc.)</string>
+    <string name="fetch_info_button">Download</string>
+    <string name="download_button">Download</string>
+    <string name="extracting_metadata">Checking available media qualities…</string>
+    <string name="downloading">Downloading video…</string>
+    <string name="quality_options">Available Formats</string>
+    <string name="error_invalid_url">Please enter a valid URL.</string>
+</resources>
